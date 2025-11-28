@@ -2,7 +2,7 @@
 
 ## Ötletek
 
-nem tom
+dih
 nem tom
 nem tom
 

@@ -2,7 +2,7 @@
 
 ## Ötletek
 
-Hangszerek vásárlása
+Hangszerek vásárlása;
 Zenész merch vásárlása
 dih vásárlása
 

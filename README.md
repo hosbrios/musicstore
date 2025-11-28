@@ -2,9 +2,9 @@
 
 ## Ötletek
 
-dih
-nem tom
-nem tom
+Hangszerek vásárlása
+Zenész merch vásárlása
+dih vásárlása
 
 ## Több ötlet
 

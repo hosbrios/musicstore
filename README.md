@@ -2,9 +2,9 @@
 
 ## Ötletek
 
-###Hangszerek vásárlása
-###Zenész merch vásárlása
-###dih vásárlása
+### Hangszerek vásárlása
+### Zenész merch vásárlása
+### dih vásárlása
 
 ## Több ötlet
 

@@ -1,6 +1,11 @@
 # Music Store
 
+## Ötletek
 
-## pénisz
+nem tom
+nem tom
+nem tom
 
-### nem tom
+## Több ötlet
+
+nem tom

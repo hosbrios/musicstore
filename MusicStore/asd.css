@@ -1,0 +1,53 @@
+/* Remove default spacing */
+body {
+    margin: 0;
+}
+
+/* NAVBAR */
+.navbar {
+    display: flex;
+    background: #222;
+    color: white;
+    padding: 15px;
+    position: relative;
+}
+
+/* Navbar items */
+.nav-item {
+    position: relative;
+    padding: 0 20px;
+    cursor: pointer;
+}
+
+/* Hide dropdown at first */
+.dropdown {
+    display: none;
+    position: absolute;
+    top: 100%;        /* directly below navbar */
+    left: 0;
+    width: 100vw;     /* full width of screen */
+    background: #333;
+    padding: 15px 0;
+}
+
+/* Show dropdown on hover */
+.nav-item:hover .dropdown {
+    display: block;
+}
+
+/* Dropdown links layout */
+.dropdown-content {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.dropdown-content a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.dropdown-content a:hover {
+    background: #444;
+}
